@@ -1,7 +1,7 @@
 
 <img src = "./richard_cartoon.png" alt = ""/>
 <h1 align="center">Hi 👋, I'm Richard Omorotionmwan</h1>
-<h3 align="center">Passionate American/Canadian Software Engineer/Analyst</h3>
+<h3 align="center">Passionate American/Canadian Software Engineer and Data Analyst</h3>
 
 - 🔭 I’m currently working on [Whipfam](https://github.com/iheomach/whipfam)
 
