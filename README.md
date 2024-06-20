@@ -8,3 +8,9 @@
 - 💻 Take a look at my projects and professional experience: [My Portfolio](https://iheoma.netlify.app)
 
 ## Connect with me:
+<img
+                src = "assets/linkedin.png"
+                alt = "My LinkedIn Profile"
+                class = "icon"
+                onClick="location.href='https://linkedin.com/in/richardomor'"
+                />
