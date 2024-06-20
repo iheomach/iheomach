@@ -1,5 +1,5 @@
 
-
+<img src = "./richard_cartoon.png", alt = ""/>
 # Hi there 👋, I'm Richard Omorotionmwan
 
 - 🔭 I’m currently working on [Whipfam](https://github.com/iheomach/whipfam)
