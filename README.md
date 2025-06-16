@@ -3,15 +3,11 @@
 <h1 align="center">Hi 👋, I'm Richard Omorotionmwan</h1>
 <h3 align="center">Passionate American/Canadian Software Engineer and Data Analyst</h3>
 
-- 🔭 I’m currently working on [Whipfam](https://github.com/iheomach/whipfam)
+- 🔭 I’m currently working on [VICES](https://github.com/iheomach/vices-app)
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://iheoma.netlify.app](https://iheoma.netlify.app)
-
 - 📫 How to reach me **iheoma.richard@gmail.com**
-
-- 📄 Know about my experiences [https://iheoma.netlify.app/assets/resume.pdf](https://iheoma.netlify.app/assets/resume.pdf)
 
 - ⚡ Fun fact **I enjoy playing the piano!**
 
