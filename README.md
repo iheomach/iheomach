@@ -1,12 +1,10 @@
 
-![image](https://github.com/user-attachments/assets/7de82d2e-f0a5-4a0e-a045-e386f472f2d0)
-
 <h1 align="center">Hi 👋, I'm Richard Omorotionmwan</h1>
-<h3 align="center">Passionate American/Canadian Software and Data Engineer</h3>
+<h3 align="center">Passionate American/Canadian Software Engineer</h3>
 
 - 🔭 I’m currently working on [VICES](https://github.com/iheomach/vices-app)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Agentic AI Development**
 
 - 📫 How to reach me **iheoma.richard@gmail.com**
 
