@@ -14,7 +14,7 @@
 
 ## About
 
-I'm an infrastructure support engineer at **Meta** (SF Bay Area), working on production data pipeline stability and building Claude-powered AI agents in PHP for internal analytics tooling.
+I'm an infrastructure support engineer at **Meta** (SF Bay Area), working on production data pipeline stability and building AI agents for internal analytics tooling.
 
 My background spans data infrastructure, cloud provisioning with Terraform, production pipeline ops, and on-call incident response for systems running at scale. I'm using that foundation as a bridge toward lower-level systems work. I want to genuinely understand how the infrastructure I've spent years running actually works underneath, which is pulling me toward computer architecture, embedded-ish systems, and GPU programming. 
 
@@ -28,7 +28,7 @@ I also built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine
 
 | | |
 |:--|:--|
-| `Meta (contract)` | Infrastructure Support Engineer, SF Bay Area &nbsp; `Oct 2025 - present` |
+| `Meta` | Infrastructure Support Engineer, SF Bay Area &nbsp; `Oct 2025 - present` |
 | `Ogwu` | Shipping v1 to production &nbsp; `Apr - Jun 2026` |
 | `OMSCS` | Georgia Tech &nbsp; `2026 - 2029` |
 
