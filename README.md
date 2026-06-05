@@ -14,11 +14,11 @@
 
 ## About
 
-I'm an infrastructure support engineer at **Meta** (SF Bay Area), building AI diagnostic agents for Scuba — Meta's real-time analytics platform — and running on-call incident triage for 1000+ production data pipelines.
+I'm an infrastructure support engineer at **Meta** (SF Bay Area), building AI diagnostic agents for Scuba: Meta's real-time analytics platform: and running on-call incident triage for 1000+ production data pipelines.
 
 My background spans data infrastructure, cloud provisioning, and production pipeline ops. Now I'm pushing in two directions at once: deeper into **agentic systems** (multi-step reasoning, tool orchestration, autonomous execution) and lower into the stack (computer architecture, OS internals, GPU programming). OMSCS at Georgia Tech is the structured path for the latter. Ogwu is the proving ground for the former.
 
-I built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine in Igbo) — an agentic AI health assistant for patients in Nigeria and emerging markets. LangGraph-orchestrated tools, LlamaGuard moderation, AWS Textract RAG, and a full CI eval pipeline. Shipping to production this summer.
+I built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine in Igbo): an agentic AI health assistant for patients in Nigeria and emerging markets. LangGraph-orchestrated tools, LlamaGuard moderation, AWS Textract RAG, and a full CI eval pipeline. Shipping to production this summer.
 
 <br/>
 
@@ -34,11 +34,11 @@ I built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine in I
 
 </div>
 
-**Meta** — Building AI diagnostic agents that let engineers investigate pipeline states via natural language, synthesizing infrastructure metadata into actionable recommendations. On-call triage across 1000+ pipelines; React.js features for internal tooling.
+**Meta**: Building AI diagnostic agents that let engineers investigate pipeline states via natural language, synthesizing infrastructure metadata into actionable recommendations. On-call triage across 1000+ pipelines; React.js features for internal tooling.
 
-**AIMCo** — Automated Databricks Unity Catalog infrastructure deployment with Terraform; built Azure DevOps CI/CD pipelines for dbt; integrated Copilot AI into a cost reporting dashboard, cutting reporting time by 93%.
+**AIMCo**: Automated Databricks Unity Catalog infrastructure deployment with Terraform; built Azure DevOps CI/CD pipelines for dbt; integrated Copilot AI into a cost reporting dashboard, cutting reporting time by 93%.
 
-**Suncor** — Financial reporting pipeline with Power Automate + PySpark ETL cutting manual work by 50%; Power BI dashboards for supply chain metrics; Python tooling for SQL-driven risk hierarchy generation.
+**Suncor**: Financial reporting pipeline with Power Automate + PySpark ETL cutting manual work by 50%; Power BI dashboards for supply chain metrics; Python tooling for SQL-driven risk hierarchy generation.
 
 <br/>
 
