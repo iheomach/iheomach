@@ -53,12 +53,6 @@ The intersection I'm most interested in — and what OMSCS makes tractable:
 | **CS 7210** Distributed Computing | Multi-agent consensus, distributed state for agent swarms, fault-tolerant orchestration |
 | **CS 6250** Computer Networks | Streaming tool call results, efficient agent-to-agent protocols, latency modelling for agentic pipelines |
 
-**Other threads worth pulling:**
-- Write a minimal transformer inference engine in C — shapes how you design agents around real hardware constraints, and plugs into llama.cpp-style work
-- eBPF to trace system calls made by agent tool invocations with near-zero overhead — real observability for autonomous systems without instrumentation overhead
-- WASM sandboxing for portable, isolated agent tool execution across environments
-- CUDA custom attention kernels for long-context agentic workloads where standard attention is the bottleneck
-
 <br/>
 
 ## Stack
