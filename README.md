@@ -42,19 +42,6 @@ I built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine in I
 
 <br/>
 
-## Agentic Systems × Lower-Level Work
-
-The intersection I'm most interested in — and what OMSCS makes tractable:
-
-| OMSCS course | Agentic angle |
-|:--|:--|
-| **CS 6290** High-Performance Architecture | KV-cache memory locality, prefill/decode separation, bandwidth bottlenecks in long-context agents |
-| **CS 6210** Advanced Operating Systems | Sandboxed tool execution with namespaces/cgroups, scheduling for agent event loops, per-tool memory isolation |
-| **CS 7210** Distributed Computing | Multi-agent consensus, distributed state for agent swarms, fault-tolerant orchestration |
-| **CS 6250** Computer Networks | Streaming tool call results, efficient agent-to-agent protocols, latency modelling for agentic pipelines |
-
-<br/>
-
 ## Stack
 
 <div align="center">
