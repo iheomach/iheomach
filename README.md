@@ -14,25 +14,50 @@
 
 ## About
 
-I'm an infrastructure support engineer at **Meta** (SF Bay Area), working on production data pipeline stability and building AI agents for internal analytics tooling.
+I'm an infrastructure support engineer at **Meta** (SF Bay Area), building AI diagnostic agents for Scuba — Meta's real-time analytics platform — and running on-call incident triage for 1000+ production data pipelines.
 
-My background spans data infrastructure, cloud provisioning with Terraform, production pipeline ops, and on-call incident response for systems running at scale. I'm using that foundation as a bridge toward lower-level systems work. I want to genuinely understand how the infrastructure I've spent years running actually works underneath, which is pulling me toward computer architecture, embedded-ish systems, and GPU programming. 
+My background spans data infrastructure, cloud provisioning, and production pipeline ops. Now I'm pushing in two directions at once: deeper into **agentic systems** (multi-step reasoning, tool orchestration, autonomous execution) and lower into the stack (computer architecture, OS internals, GPU programming). OMSCS at Georgia Tech is the structured path for the latter. Ogwu is the proving ground for the former.
 
-I also built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine in Igbo), an agentic AI health assistant for patients in Nigeria and emerging markets. LLM-powered triage, hospital search ranked by GPS proximity, and appointment booking through Google Calendar/Meet, all in one conversational flow on React Native. Shipping to production this summer before shifting focus to systems work full-time.
+I built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine in Igbo) — an agentic AI health assistant for patients in Nigeria and emerging markets. LangGraph-orchestrated tools, LlamaGuard moderation, AWS Textract RAG, and a full CI eval pipeline. Shipping to production this summer.
 
 <br/>
 
-## Now
+## Experience
 
 <div align="center">
 
-| | |
-|:--|:--|
-| `Meta` | Infrastructure Support Engineer, SF Bay Area &nbsp; `Oct 2025 - present` |
-| `Ogwu` | Shipping v1 to production &nbsp; `Apr - Jun 2026` |
-| `OMSCS` | Georgia Tech &nbsp; `2026 - 2029` |
+| Role | Company | Period |
+|:--|:--|:--|
+| Infrastructure Support Engineer | Meta *(via Crystal Equation)* | Oct 2025 – present |
+| Data & AI Platform Engineer Intern | Alberta Investment Management Corporation | Sep 2024 – Oct 2025 |
+| Data Analyst Co-op | Suncor Energy | May 2023 – Aug 2024 |
 
 </div>
+
+**Meta** — Building AI diagnostic agents that let engineers investigate pipeline states via natural language, synthesizing infrastructure metadata into actionable recommendations. On-call triage across 1000+ pipelines; React.js features for internal tooling.
+
+**AIMCo** — Automated Databricks Unity Catalog infrastructure deployment with Terraform; built Azure DevOps CI/CD pipelines for dbt; integrated Copilot AI into a cost reporting dashboard, cutting reporting time by 93%.
+
+**Suncor** — Financial reporting pipeline with Power Automate + PySpark ETL cutting manual work by 50%; Power BI dashboards for supply chain metrics; Python tooling for SQL-driven risk hierarchy generation.
+
+<br/>
+
+## Agentic Systems × Lower-Level Work
+
+The intersection I'm most interested in — and what OMSCS makes tractable:
+
+| OMSCS course | Agentic angle |
+|:--|:--|
+| **CS 6290** High-Performance Architecture | KV-cache memory locality, prefill/decode separation, bandwidth bottlenecks in long-context agents |
+| **CS 6210** Advanced Operating Systems | Sandboxed tool execution with namespaces/cgroups, scheduling for agent event loops, per-tool memory isolation |
+| **CS 7210** Distributed Computing | Multi-agent consensus, distributed state for agent swarms, fault-tolerant orchestration |
+| **CS 6250** Computer Networks | Streaming tool call results, efficient agent-to-agent protocols, latency modelling for agentic pipelines |
+
+**Other threads worth pulling:**
+- Write a minimal transformer inference engine in C — shapes how you design agents around real hardware constraints, and plugs into llama.cpp-style work
+- eBPF to trace system calls made by agent tool invocations with near-zero overhead — real observability for autonomous systems without instrumentation overhead
+- WASM sandboxing for portable, isolated agent tool execution across environments
+- CUDA custom attention kernels for long-context agentic workloads where standard attention is the bottleneck
 
 <br/>
 
@@ -45,7 +70,6 @@ I also built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine
 ![Python](https://img.shields.io/badge/Python-0f2744?style=flat-square&logo=python&logoColor=7dd3fc)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f2744?style=flat-square&logo=typescript&logoColor=7dd3fc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f2744?style=flat-square&logo=javascript&logoColor=7dd3fc)
-![C++](https://img.shields.io/badge/C%2B%2B-0f2744?style=flat-square&logo=cplusplus&logoColor=7dd3fc)
 ![SQL](https://img.shields.io/badge/SQL-0f2744?style=flat-square&logo=postgresql&logoColor=7dd3fc)
 ![Java](https://img.shields.io/badge/Java-0f2744?style=flat-square&logo=openjdk&logoColor=7dd3fc)
 
@@ -72,7 +96,7 @@ I also built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine
 
 <br/>
 
-## Highlighted Projects
+## Projects
 
 <div align="center">
 
@@ -82,19 +106,19 @@ I also built **[Ogwu](https://github.com/iheomach/ogwu)** (*ogwu* means medicine
 
 **[Ogwu](https://github.com/iheomach/ogwu)** &nbsp; *medicine* in Igbo
 
-Agentic AI health assistant for Nigeria and emerging markets. LLM-powered triage, hospital search by GPS proximity, and Google Calendar/Meet appointment booking, all in one conversational flow.
+Agentic AI health assistant for Nigeria and emerging markets. 8-tool LangGraph agent, LlamaGuard moderation, AWS Textract RAG pipeline, and a GPT-4 LLM-as-judge eval suite wired into CI.
 
 ![React Native](https://img.shields.io/badge/React_Native-0f2744?style=flat-square&logo=react&logoColor=7dd3fc)
 ![Node.js](https://img.shields.io/badge/Node.js-0f2744?style=flat-square&logo=nodedotjs&logoColor=7dd3fc)
-![OpenAI](https://img.shields.io/badge/AI_SDK_v5-0f2744?style=flat-square&logoColor=7dd3fc)
-![Supabase](https://img.shields.io/badge/Supabase-0f2744?style=flat-square&logo=supabase&logoColor=7dd3fc)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f2744?style=flat-square&logoColor=7dd3fc)
+![AWS](https://img.shields.io/badge/AWS-0f2744?style=flat-square&logo=amazonaws&logoColor=7dd3fc)
 
 </td>
 <td width="50%" valign="top">
 
 **[Vices](https://github.com/iheomach/vices-app)**
 
-AI-powered substance use and addiction tracking app. GPT-4 analyzes journal entries and usage patterns to deliver personalized behavioral insights. Stripe for payments.
+AI-powered substance use and addiction tracking app. GPT-4 analyzes journal entries and usage patterns to surface personalized behavioral insights. Stripe for payments.
 
 ![React](https://img.shields.io/badge/React-0f2744?style=flat-square&logo=react&logoColor=7dd3fc)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f2744?style=flat-square&logo=typescript&logoColor=7dd3fc)
@@ -103,21 +127,10 @@ AI-powered substance use and addiction tracking app. GPT-4 analyzes journal entr
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-
-</td>
-<td width="50%" valign="top">
-
-
-</td>
-</tr>
 </table>
 
 </div>
 
-
 <div align="center">
-  <sub>infrastructure &nbsp;|&nbsp; AI systems &nbsp;|&nbsp; C++/CUDA in progress &nbsp;|&nbsp; pianist &nbsp;|&nbsp; Oakland, CA</sub>
+  <sub>infrastructure &nbsp;|&nbsp; agentic systems &nbsp;|&nbsp; systems programming &nbsp;|&nbsp; pianist &nbsp;|&nbsp; Oakland, CA</sub>
 </div>
