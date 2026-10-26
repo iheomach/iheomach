@@ -19,4 +19,4 @@ Terraform · AWS · Azure · Databricks · Docker · Azure DevOps · Python · S
 - Databricks Data Engineer certification
 - Certified Kubernetes Administrator (CKA)
 
-[LinkedIn](https://linkedin.com/in/richardomor) · [Email](mailto:iheoma.richard@gmail.com)
+[Email](mailto:iheoma.richard@gmail.com)
