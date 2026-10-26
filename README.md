@@ -1,6 +1,6 @@
 # Richard Omorotionmwan
 
-Platform and infrastructure engineer focused on cloud provisioning, deployment automation, and reliable production systems. Currently pursuing an M.S. in Computer Science at Georgia Tech.
+Platform and infrastructure engineer focused on cloud provisioning, deployment automation, and reliable production systems. B.Sc. in Computer Science from the University of Alberta, with a Software Practice specialization. Currently pursuing an M.S. in Computer Science at Georgia Tech.
 
 ## Experience
 
