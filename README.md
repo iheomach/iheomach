@@ -13,9 +13,21 @@ Platform and infrastructure engineer focused on cloud provisioning, deployment a
 
 Terraform · AWS · Azure · Databricks · Docker · Azure DevOps · Python · SQL · TypeScript
 
-## Certifications in progress
+## Certifications
 
-- HashiCorp Certified: Terraform Associate
+Click a badge to view the official credential and verification details.
+
+<p>
+  <a href="https://www.credly.com/badges/5090885b-6254-4e2a-9113-6cfe62c7b958"><img src="assets/certifications/terraform-associate-004.png" alt="HashiCorp Certified: Terraform Associate (004). Earned November 1, 2026 · Active through November 1, 2028." width="220" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/IHEOMAOMOROTIONMWAN-3538/1ADE50D4ECECD9D8?sharingId=D39D5E5F18B44300"><img src="assets/certifications/azure-fundamentals.png" alt="Microsoft Certified: Azure Fundamentals. Earned November 18, 2023 · Active." width="220" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/IHEOMAOMOROTIONMWAN-3538/9079F79037757F38?sharingId=D39D5E5F18B44300"><img src="assets/certifications/azure-ai-engineer-associate.png" alt="Microsoft Certified: Azure AI Engineer Associate. Earned June 22, 2024 · Expired June 22, 2025." width="220" /></a>
+</p>
+
+- **[HashiCorp Certified: Terraform Associate (004)](https://www.credly.com/badges/5090885b-6254-4e2a-9113-6cfe62c7b958)**: Earned November 1, 2026 · Active through November 1, 2028.
+- **[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/IHEOMAOMOROTIONMWAN-3538/1ADE50D4ECECD9D8?sharingId=D39D5E5F18B44300)**: Earned November 18, 2023 · Active.
+- **[Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/IHEOMAOMOROTIONMWAN-3538/9079F79037757F38?sharingId=D39D5E5F18B44300)**: Earned June 22, 2024 · Expired June 22, 2025.
+
+## Certifications in progress
 - Databricks Data Engineer certification
 - Certified Kubernetes Administrator (CKA)
 
