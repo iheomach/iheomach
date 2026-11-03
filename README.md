@@ -4,10 +4,10 @@ Platform and infrastructure engineer working across cloud infrastructure and app
 
 ## Experience
 
-- **Credian | Founding Engineer:** Provisioning cloud infrastructure with Terraform for a fintech product that provides authorization and policy controls for AI-agent purchases. Building CI/CD workflows to automate code promotion across environments.
-- **Meta | Infrastructure Support Engineer, via Crystal Equation:** Supporting production data infrastructure, handling on-call incident triage, and building internal diagnostic and support tools.
-- **AIMCo | Data & AI Platform Engineer Intern:** Automated Databricks Unity Catalog infrastructure with Terraform and built Azure DevOps CI/CD pipelines for dbt.
-- **Suncor | Data Analyst Co-op:** Built Python, SQL, and PySpark pipelines to automate reporting and data workflows.
+- **Credian | Founding Engineer** · Jun 2026 – Present<br /> Provisioning cloud infrastructure with Terraform for a fintech product that provides authorization and policy controls for AI-agent purchases. Building CI/CD workflows to automate code promotion across environments.
+- **Meta | Infrastructure Support Engineer, via Crystal Equation** · Oct 2025 – Present<br /> Supporting production data infrastructure, handling on-call incident triage, and building internal diagnostic and support tools.
+- **AIMCo | Data & AI Platform Engineer Intern** · Sep 2024 – Oct 2025<br /> Automated Databricks Unity Catalog infrastructure with Terraform and built Azure DevOps CI/CD pipelines for dbt.
+- **Suncor | Data Analyst Co-op** · May 2023 – Aug 2024<br /> Built Python, SQL, and PySpark pipelines to automate reporting and data workflows.
 
 ## Education
 
